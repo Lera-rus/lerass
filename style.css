@@ -1,0 +1,52 @@
+html {
+background:url(main_all.jpg)   no-repeat;
+
+}
+h1{ text-align:center; color:#FFFFFF; font: "Courier New", Courier,;
+font-size:50px;}
+#main_menu{
+
+height:50px;
+width:1000px;
+   margin-left: auto;
+    margin-right: auto;
+	background-color:#00CC66;
+	justify-content: center;
+	
+}
+#main{
+
+
+width:1000px;
+   margin-left: auto;
+    margin-right: auto;
+	margin-top:50px;
+	justify-content: center;
+
+}
+
+
+a.link{ width:200px;
+height:50px;
+display:block;
+float:left;
+   margin-left: auto;
+    margin-right: auto;
+	background-color: #3333CC;
+	color:#FFFFFF;
+	font-size:20px;
+	font-style:italic;
+	text-decoration:none;
+	border-right: #FFFFFF;
+	
+}
+a{ text-align:center; padding-top:15px;border-right: #FFFFFF;}
+a.link:hover{
+color:#FF0000; background: #003399; text-decoration:underline}
+.title{ text-align:center; color:#FFFFFF; font:Geneva, Arial, Helvetica, sans-serif;
+font-size: 30px;
+text-decoration:underline;
+font-style:inherit;}
+h2{ color:#FFFF00; text-decoration:underline;font-size: 30px; font-style:italic; text-align:center;}
+.link_a{color: #66FFFF; font-weight:bold;}
+a.link_a:hover{  color: #000099; font-size:35px; text-decoration:none; background:#0099FF}
